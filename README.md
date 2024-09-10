@@ -1,3 +1,3 @@
 # Class Conflict Repo
 
-This repo demonstrates how to resolve a confict in git.
+This repo demo of how to resolve a confict in git.
